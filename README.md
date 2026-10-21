@@ -1,36 +1,48 @@
-# Rodney Dela Cruz
+# Hi, I'm Rodney Dela Cruz 👋
 
-Full-Stack Developer & Automation Engineer specialized in AI-augmented development and operations infrastructure. I build operations infrastructure and autonomous data pipelines — automation engines and human-in-the-loop verification systems that eliminate manual overhead.
+**GovTech practitioner · Technical co-founder of [eSerbisyo](https://www.eserbisyo.com)**
+📍 Dumaguete, Philippines — I romanticize efficient public service.
 
-## Tech Stack
+## About me
 
-**Languages & Frameworks**
-Next.js · React · TypeScript · JavaScript · Tailwind CSS · Node.js
+I build operations infrastructure for Philippine local government: the unglamorous plumbing that turns paper processes into systems. Forms instead of queues, approval trails instead of logbooks, and documents a resident can verify with a QR code instead of taking on faith.
 
-**Data & Backend**
-PostgreSQL · Supabase · Appwrite
+I am the technical co-founder of eSerbisyo, a multi-tenant platform that lets barangays, the smallest government units in the Philippines, issue clearances, certificates, and IDs online. One codebase serves every barangay, while each one keeps its own data, its own branding, and its own payment account.
 
-**Automation & Infrastructure**
-n8n · Docker
+I am also a BSIT student at Asian College in Dumaguete. The stack below is self-taught: I skipped a year of senior high, graduated with high honors from a humanities strand (HUMSS), and learned the engineering because the work required it, in the order it turned out to be needed. None of it came out of a classroom.
 
-## Featured Projects
+## How I work
 
-**[FileSnaps](https://filesnaps.themainbranch.dev)** — End-to-end encrypted, zero-maintenance file sharing platform with auto-deletion, custom expiration rules, and zero account requirements. Client-side AES-256-GCM encryption, Cloudflare Workers backend.
-→ [Source](https://github.com/rodneydelacruz/filesnaps)
+- **Built for everyone, not just one.** My first design question is how a thing behaves for the fiftieth barangay, not only the first.
+- **I direct AI the way a tech lead directs a team.** I write the specification, set the acceptance journeys, and verify what ships. The typing is the cheap part.
+- **Boring discipline.** Branch, then staging, then production. Nothing reaches a live barangay untested.
 
-**Automated Personal Assistant & Study Companion** — Autonomous Telegram assistant built in n8n with dynamic intent routing, a localized scheduling engine for natural language reminders, and a Legal RAG (Retrieval-Augmented Generation) pipeline integrated with a Qdrant vector store.
+## What I'm building
 
-**San Andreas Government Management System (eGovLS | GOV.SYS)** — Digital governance platform handling citizen intake services, financial pipelines, personnel management, public transparency, and automated document generation through a serverless architecture powered by Appwrite, n8n, and Cloudinary.
+- **[eSerbisyo](https://www.eserbisyo.com)** — document services, resident records, online payments, and ID issuance for barangays. Currently in pilot season.
+- **Legislative Tracking System** — drafting with versioning, committee referrals, sessions with recorded voting, and an official e-library for local legislative offices, on a platform layer that manages tenants and licences.
+- **[BetterBayawan](https://betterbayawan.org)** — a community portal for my hometown, Bayawan City: service directories, emergency hotlines, and public information, built as a volunteer under BetterGov.PH's BetterLGU initiative. My most respectable side quest. ([source](https://github.com/rodneydelacruz/betterbayawan))
+- **[FileSnaps](https://filesnaps.themainbranch.dev)** — end-to-end encrypted file sharing with no accounts and automatic expiry. ([source](https://github.com/rodneydelacruz/filesnaps))
 
-**Self-Hosted n8n Automation: Law Enforcement Operations Ecosystem** — Dual-workflow n8n automation architecture handling administrative overhead for digital law enforcement departments.
+The full shelf, with write-ups: [rodneydelacruz.space/projects](https://www.rodneydelacruz.space/projects/)
 
-**CiviCore: Community Operations Platform** — Enterprise-grade community operations platform designed for hyper-local governance.
+## Tech I work with
 
-More projects and write-ups: [rodneydelacruz.space](https://rodneydelacruz.space)
+**Day to day:** TypeScript · Next.js · React · Node.js · Tailwind CSS
+**Data and backend:** PostgreSQL · Appwrite · Supabase
+**Automation and infrastructure:** n8n · Docker · Vercel · Cloudflare
+**Also in the shed:** Astro · C++ (school-mandated; we get along fine)
 
-## Links
+## GitHub stats
 
-- Portfolio: [rodneydelacruz.space](https://rodneydelacruz.space)
-- LinkedIn: [linkedin.com/in/rodney-dela-cruz](https://linkedin.com/in/rodney-dela-cruz/)
-- Twitter/X: [@yesitsrodney](https://twitter.com/yesitsrodney)
-- Email: inquire@rodneydelacruz.space
+![Rodney's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodneydelacruz&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodneydelacruz&layout=compact)
+![GitHub streak](https://streak-stats.demolab.com?user=rodneydelacruz)
+
+## Find me
+
+- **Portfolio:** [rodneydelacruz.space](https://www.rodneydelacruz.space)
+- **LinkedIn:** [linkedin.com/in/rodney-dela-cruz](https://www.linkedin.com/in/rodney-dela-cruz)
+- **X:** [@yesitsrodney](https://x.com/yesitsrodney)
+- **Facebook:** [facebook.com/mrrodneydelacruz](https://www.facebook.com/mrrodneydelacruz)
+- **Email:** imrodneydelacruz@gmail.com — the best way to reach me.
